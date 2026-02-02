@@ -334,4 +334,4 @@ If you encounter a similar situation in the future:
 3. Check **pod density limits**
 4. Read pod events first, not logs
 
-This document intentionally captures the *messy reality* of EKS, not a sanitized demo.
+
